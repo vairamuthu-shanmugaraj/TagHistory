@@ -1,0 +1,11 @@
+jdk7Tomcat7=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/Tomcat/d4639a79ed96c66f96008e032c7cd08c74e86a87/Dockerfile
+jdk6Tomcat7=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/Tomcat/37edd7faf248bde9ec66974cafd8d42744ce72bf/Dockerfile
+jdk6Base12=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/BaseWithJdk/d84b3020f2de8b3e39896ba66bf7a65b90741cab/Dockerfile
+jdk7Base14=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/BaseWithJdk/0f96a210f8e7705079aa50e062499ab9bb926612/Dockerfile
+gitlatest=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/github/6b25578db3ef5731ef5f24d19788e856427545c5/Dockerfile
+tomcat7withgit=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/tomcatwithgit/9fa7d8fd47296602d591e759f8553c41079a4c93/Dockerfile
+#14.04=curl https://raw.githubusercontent.com/vairamuthu-shanmugaraj/BaseImage/3987fe6ff367c195a1454de9cbfa3f9811058583/Dockerfile
+#12.04=curl https://raw.githubusercontent.com/vairamuthu-shanmugaraj/BaseImage/187e5da6c7bcfa33d369e5afd924ee39f3eaca79/Dockerfile
+14.04=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/Scratch/fcad84ad4aa001c50a9a6db9a14d0df9e87aefb0/Dockerfile
+12.04=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/Scratch/fcad84ad4aa001c50a9a6db9a14d0df9e87aefb0/Dockerfile
+scratch=https://raw.githubusercontent.com/vairamuthu-shanmugaraj/Scratch/cef5ec838029e21041761949ceba166eae081334/Dockerfile
